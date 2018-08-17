@@ -9,7 +9,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
  * @Description:
  *
  * @Copyright 2016-2018  - Powered By 研发中心
- * @author: 王延飞
+ * @author: 孙文川
  * @date: 2018-03-08 10:22
  * @version V1.0
  */

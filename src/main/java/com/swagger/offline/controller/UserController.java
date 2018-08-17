@@ -13,7 +13,7 @@ import org.springframework.web.bind.annotation.*;
  * @ClassName: UserController.java
  * @Description:
  * @Copyright 2016-2018  - Powered By 研发中心
- * @author: 王延飞
+ * @author: 孙文川
  * @date: 2018-01-22 16:08
  */
 @Controller
@@ -30,7 +30,7 @@ public class UserController {
         user.setId(123456789);
         user.setName(name);
         user.setAge(27);
-        user.setAddress("重庆沙坪坝区");
+        user.setAddress("成都武侯区");
         user.setSex("男");
         return user;
     }

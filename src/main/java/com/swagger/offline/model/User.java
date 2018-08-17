@@ -9,7 +9,7 @@ import io.swagger.annotations.ApiModelProperty;
  * @ClassName: User.java
  * @Description:
  * @Copyright 2016-2018  - Powered By 研发中心
- * @author: 王延飞
+ * @author: 孙文川
  * @date: 2018-01-22 16:06
  */
 @ApiModel(value = "User", description = "用户信息描述")

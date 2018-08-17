@@ -17,7 +17,7 @@ import springfox.documentation.swagger2.annotations.EnableSwagger2;
  * @ClassName: com.newcapec.config.swagger.Swagger2Configuration.java
  * @Description:
  * @Copyright 2016-2017  - Powered By 研发中心
- * @author: 王延飞
+ * @author: 孙文川
  * @date:2017-12-11 8:20
  */
 
@@ -41,7 +41,7 @@ public class SwaggerConfiguration {
      * @Title: 构建API基本信息
      * @methodName: buildApiInfo
      * @Description:
-     * @author: 王延飞
+     * @author: 孙文川
      * @date: 2017-12-11  8:44
      */
     private ApiInfo buildApiInfo() {
@@ -49,7 +49,7 @@ public class SwaggerConfiguration {
         return new ApiInfoBuilder()
                 .title("用户信息API文档")
                 .description("这里除了查看接口功能外，还提供了调试测试功能")
-                .contact("王延飞")
+                .contact("孙文川")
                 .version("1.0")
                 .build();
 
